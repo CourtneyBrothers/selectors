@@ -19,3 +19,11 @@ span.disabled {
 span.active{
     color: yellow;
 }
+
+div.grandparent div.parent div:nth-child(1){
+    color: red;
+}
+
+div.grandparent div.parent div div{
+    color: blue;
+}
