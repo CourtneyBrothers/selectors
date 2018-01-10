@@ -1,0 +1,9 @@
+#header {
+    border: 1px solid black;
+}
+#header ul li{
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    margin: 1rem;
+}
