@@ -7,3 +7,11 @@
     display: inline-block;
     margin: 1rem;
 }
+.disabled {
+    color: grey;
+
+}
+
+span.disabled {
+    color:rgb(101, 84, 199);
+}
